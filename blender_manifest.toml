@@ -1,0 +1,18 @@
+schema_version = "1.0.0"
+
+id = "preset_for_dyntopo"
+version = "1.0.0"
+name = "PresetForDyntopo"
+tagline = "Preset for Dyntopo"
+maintainer = "ozasuke <ozasuke33@gmail.com>"
+type = "add-on"
+
+website = "https://github.com/ozasuke33/PresetForDyntopo"
+
+tags = ["Sculpt", "User Interface"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
